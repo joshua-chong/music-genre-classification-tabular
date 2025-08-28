@@ -36,6 +36,7 @@
 | Random Forest         | 77.5%      | Best ML model |
 | SVM                   | 68%      | Moderate performance |
 
+We can notice that the accuracy is not exactly high, hence we can improve this by utilising CNNs next.
 ---
 
 ## 🚀 Usage
